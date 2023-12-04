@@ -1,1 +1,2 @@
-Este es el segundo archivo del proyecto
+Este es el segundo archivo del proyecto.
+Voy a haer comit de esto sin añadir archivo 3
